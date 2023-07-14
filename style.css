@@ -1,0 +1,49 @@
+body{
+    background: grey;
+}
+#heading{
+    height: 75px;
+    width: 600px;
+    background: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 55px;
+    border-top-left-radius: 75%;
+    border-bottom-right-radius: 75%;
+    border: 2px solid black;
+    border-color: aqua blue purple red;
+}
+heading1{
+padding-top: 1px;
+text-align: center;
+}
+form{
+    width: 400px;
+    background: black;
+    margin: auto;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+label{
+    font-weight: bold;
+}
+#success{
+    background:gray ;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.sbody{
+    background: url(./background.jpg);
+    background-size: cover;
+}
+#sh1{
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+    font-size:300%;
+
+}
